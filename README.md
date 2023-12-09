@@ -6,6 +6,6 @@
 | Frameworks | React, Nest.js |
 | DB | MySQL |
 | Engine | Unity |
-| CI/CD | Git & GitHub, Docker, Kubernetes |
+| CI/CD | Git & GitHub, Docker |
 | UX/UI | Figma |
 | Test | StoryBook, Jest |
