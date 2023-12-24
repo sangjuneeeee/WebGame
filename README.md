@@ -8,4 +8,4 @@
 | Engine | Unity |
 | CI/CD | Git & GitHub, Docker |
 | UX/UI | Figma |
-| Test | StoryBook, Jest, Sex |
+| Test | StoryBook, Jest |
