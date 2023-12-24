@@ -9,3 +9,4 @@
 | CI/CD | Git & GitHub, Docker |
 | UX/UI | Figma |
 | Test | StoryBook, Jest |
+sex
