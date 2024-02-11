@@ -1,1 +1,1 @@
-// export * fromt './routes';
+export * from "./routes";
